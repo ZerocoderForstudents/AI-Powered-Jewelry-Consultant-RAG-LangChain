@@ -69,6 +69,4 @@
    print(response)
    ```
 
-## 📬 Обратная связь
-Если у вас есть вопросы или предложения, пишите в [Issues](https://github.com/ZerocoderForstudents/issues) или [Pull Requests](https://github.com/ZerocoderForstudents/pulls).
 
